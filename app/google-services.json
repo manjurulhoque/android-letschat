@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "476666709248",
+    "firebase_url": "https://letschat-77c16.firebaseio.com",
+    "project_id": "letschat-77c16",
+    "storage_bucket": "letschat-77c16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476666709248:android:0db17246a563ce9f",
+        "android_client_info": {
+          "package_name": "com.example.rumi.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476666709248-1pcn2elvjoi7us3cb2p3sn7cbpr24obu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rumi.letschat",
+            "certificate_hash": "53802090c0ce30040bcbda7e75ad0f8582b1f30c"
+          }
+        },
+        {
+          "client_id": "476666709248-ncnehh02k89qqm376njji5qijr4h593h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe6lYMduYqkF1FK7BlKBA77gcp7PbsPMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476666709248-ncnehh02k89qqm376njji5qijr4h593h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
